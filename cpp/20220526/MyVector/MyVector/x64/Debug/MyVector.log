@@ -1,0 +1,9 @@
+﻿  MyVector.cpp
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\cpp\20220526\MyVector\MyVector\MyVector.cpp(17,44): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\cpp\20220526\MyVector\MyVector\MyVector.cpp(17,44): error C2143: 구문 오류: ','이(가) '&' 앞에 없습니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\cpp\20220526\MyVector\MyVector\MyVector.cpp(18,1): error C2511: 'MyVector MyVector::operator +(const int)': 오버로드된 멤버 함수가 'MyVector'에 없습니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\cpp\20220526\MyVector\MyVector\MyVector.cpp(5): message : 'MyVector' 선언을 참조하십시오.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\cpp\20220526\MyVector\MyVector\MyVector.cpp(20,8): error C2671: 'MyVector::+': 정적 멤버 함수에 'this' 포인터가 없습니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\cpp\20220526\MyVector\MyVector\MyVector.cpp(20,18): error C2065: 'v2': 선언되지 않은 식별자입니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\cpp\20220526\MyVector\MyVector\MyVector.cpp(21,8): error C2671: 'MyVector::+': 정적 멤버 함수에 'this' 포인터가 없습니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\cpp\20220526\MyVector\MyVector\MyVector.cpp(21,18): error C2065: 'v2': 선언되지 않은 식별자입니다.

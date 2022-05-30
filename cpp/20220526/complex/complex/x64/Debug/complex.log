@@ -1,0 +1,4 @@
+﻿  complex.cpp
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\cpp\20220526\complex\complex\complex.cpp(29,5): error C2601: 'main': 지역 함수 정의가 잘못되었습니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\cpp\20220526\complex\complex\complex.cpp(23): message : 이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\cpp\20220526\complex\complex\complex.cpp(23): fatal error C1075: '{': 일치하는 토큰을 찾을 수 없습니다.
