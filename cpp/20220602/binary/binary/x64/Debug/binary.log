@@ -1,0 +1,3 @@
+﻿  binary.cpp
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\cpp\20220602\binary\binary\binary.cpp(14,25): warning C4312: '형식 캐스트': 'int'에서 더 큰 'char *'(으)로의 변환입니다.
+  binary.vcxproj -> C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\cpp\20220602\binary\x64\Debug\binary.exe
