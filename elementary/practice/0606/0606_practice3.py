@@ -55,8 +55,20 @@ while 1:
         print("잘못된 입력입니다.")
 
 domains = { "kr": "대한민국", "sk": "슬로바키아", "no": "노르웨이", "us": "미국", "jp": "일본", "hu": "헝가리", "de": "독일"}
-item = input("나라를 입력하라")
-for k, v in domains.item():
+
+for k, v in domains.items():
     print(k,": ", v)
 
-
+problems = {'파이썬': '최근에 가장 떠오르는 프로그래밍 언어',
+            '변수': '데이터를 저장하는 메모리 공간',
+            '함수': '작업을 수행하는 문장들의 집합에 이름을 붙힌것',
+            '리스트': '서로 관련이 없는 항목들의 모임'}
+for word in problems.keys():
+    print("다음은 어떤 단어에 대한 설명일까요?")
+    print(problems[word])
+    print("(1)파이썬 (2)함수 (3)리스트 (4)변수")
+    answer = input("정답(문자만 입력할 것): ")
+    if answer == word:
+        print("정답입니다!")
+    else:
+        print("정답이 아닙니다.")
