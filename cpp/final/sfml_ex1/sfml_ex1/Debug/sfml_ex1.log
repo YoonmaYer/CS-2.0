@@ -1,0 +1,5 @@
+﻿  지뢰찾기.cpp
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\cpp\final\sfml_ex1\sfml_ex1\지뢰찾기.cpp(20,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\cpp\final\sfml_ex1\sfml_ex1\지뢰찾기.cpp(88,53): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\cpp\final\sfml_ex1\sfml_ex1\지뢰찾기.cpp(88,38): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  sfml_ex1.vcxproj -> C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\cpp\final\sfml_ex1\Debug\sfml_ex1.exe
